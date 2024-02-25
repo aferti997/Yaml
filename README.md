@@ -1,0 +1,2 @@
+# Yaml
+Some think nice
